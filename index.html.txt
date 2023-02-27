@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Portfolio Site</title>
+  </head>
+  <body>
+    <header>
+      <h1>Hi, I'm Rijon</h1>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="portfolio.html">Portfolio</a></li>
+          <li><a href="contact.htm">Contact</a></li>
+          <li><a href="workexperience.html">Work Experience</a></li>
+          <li><a href="sitereport.html">Site Report</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <h2>Welcome to my portfolio site!</h2>
+      <p>Here you'll find examples of my work as a web developer, as well as information about my skills and experience.I have tried to showcase my skill and potential in using html and css.</p>
+    </main>
+    <footer>
+      <p>Copyright © 2023 Rijon Adhikari</p>
+    </footer>
+  </body>
+</html>
